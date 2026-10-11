@@ -12,9 +12,10 @@ const Navbar = () => {
     return (
         <section id='' className='py-2 bg-white'>
             <div className='container mx-auto flex justify-between items-center gap-2 px-3 sm:px-4'>
-                <Link href='/'>
+                <Link href='/'> 
+                
                     <div className='flex justify-center items-center gap-2 min-w-0'>
-                        {/* <Image src={logo} alt='' width={40} height={40} className='bg-green-700 p-2 rounded-xl h-fit' /> */}
+                        {/* <Image src={logo} alt='' width={40} height={40} className='bg-green-700 p-2 rounded-xl h-fit twruwer two zero' /> */}
                         <div className='bg-green-700 p-2 rounded-xl'>
                             <span className="text-xl shrink-0">🛒</span>
                         </div>
