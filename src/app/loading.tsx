@@ -25,7 +25,7 @@ const ProductSkeleton = () => {
 export default function Loading() {
     return (
         <main className="min-h-screen bg-[#f7faf7]">
-            {/* Hero Skeleton */}
+            {/* Hero Skeletonn */}
             <section className="bg-[#f0f8f1]">
                 <div className="mx-auto grid max-w-6xl gap-10 px-4 py-12 sm:px-6 md:grid-cols-2 md:py-16">
                     <div>
